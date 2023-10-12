@@ -32,6 +32,11 @@ a{
     font-size: 2rem;
     padding: 10px;
 }
+#hero_img img{
+    width: 50%;
+    height: 600px; 
+    border: 0;
+}
 
 img{
     border-radius:5px;
@@ -41,7 +46,7 @@ img{
 }
 
 iframe{
-    width: 900px;
+    width: 70%;
     height: 450px; 
     border: 1px solid black; 
     border-radius: 5px;
