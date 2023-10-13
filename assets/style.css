@@ -125,3 +125,39 @@ button:hover{
     opacity: 80%;
     cursor: pointer;
 }
+
+/* media queries */
+@media screen and (max-width: 1050px) {
+    img{
+        border-radius:5px;
+        height: 320px;
+        width: 60%;
+    }
+
+    #open_times{
+        width: 30%;
+    }
+}
+@media screen and (max-width: 600px) {
+    #hero_img img{
+        width: 80%;
+        height: 300px; 
+        border: 0;
+    }
+
+    img{
+        border-radius:5px;
+        height: 260px;
+        width: 70%;
+    }
+
+    #open_times{
+        width: 60%;
+    }
+
+    iframe{
+        width: 70%;
+        height: 300px; 
+        border: 1px solid black; 
+    }
+}
