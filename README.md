@@ -1,1 +1,2 @@
-# DogGroomingTemplate
+# Dog Grooming Website Template
+
